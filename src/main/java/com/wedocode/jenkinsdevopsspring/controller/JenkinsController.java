@@ -9,7 +9,5 @@ public class JenkinsController {
     @GetMapping("/get")
     public String sayHello(){
         return "Hello World!";
-        return ;
-
     }
 }
