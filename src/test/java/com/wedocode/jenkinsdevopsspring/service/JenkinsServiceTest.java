@@ -11,6 +11,6 @@ import static org.junit.jupiter.api.Assertions.*;
 class JenkinsServiceTest {
     @Test
     void sayHello() {
-        Assertions.assertEquals("Hello Rachid", "Hello Rachid");
+        Assertions.assertEquals("Hello Rachid", "Hello Rachid M.Saadi");
     }
 }
